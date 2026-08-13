@@ -8,8 +8,4 @@
  
 ## 1. PurePot  -  A calculadora
 
-Meu primeiro projeto, desenvolvido para calcular as quantidades corretas de itens para cada poção.
-
-
- 
-🚀 Em breve, novos projetos serão adicionados, documentando cada etapa da minha aprendizagem e crescimento na área de tecnologia.
+Meu primeiro projeto, ainda sendo desenvolvido, mas já calcula as quantidades corretas de itens para cada poção.
