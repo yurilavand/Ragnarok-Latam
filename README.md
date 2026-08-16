@@ -6,7 +6,7 @@
 
 ### Projetos
 
-## 1 Calculadoras
+## 1 - Calculadoras
 ## 1.1-PurePot  
 
 Meu primeiro projeto, ainda sendo desenvolvido, mas já calcula as quantidades corretas de itens para cada poção.
