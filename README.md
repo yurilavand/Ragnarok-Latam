@@ -11,6 +11,22 @@
 
 Calcula as quantidades corretas de itens para cada poção.
 
-## 1.2- SemiJoias
 
-Calcula quantidades de joias e gera relatório totalizando o que precisa de cada item desde somb.e joga em arquivo .txt 
+# 1.2 - Calculadora de Semijoias Ragnarok LATAM
+
+Ferramenta em **Python (Tkinter)** para calcular automaticamente os insumos necessários na criação de **Semijoias** no servidor **Ragnarok LATAM**.  
+O programa exibe os materiais, Sombridecons, Minérios de Sombridecon e custo total em Zeny, além de gerar relatórios automáticos em `.txt`.
+
+---
+
+## ⚙️ Funcionalidades
+
+- Interface gráfica simples e intuitiva com **Tkinter**.  
+- Seleção de tipo de semijoia (Inferior, Comum, Incomum, Superior).  
+- Campo para definir a quantidade desejada.  
+- Cálculo automático de:
+  - Minérios de Sombridecon  
+  - Sombridecons  
+  - Semijoias Inferiores, Comuns e Incomuns  
+  - Custo total em Zeny  
+- Exportação automática do relatório em `.txt` na mesma pasta do script.
