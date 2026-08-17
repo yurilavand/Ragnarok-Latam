@@ -1,9 +1,5 @@
 # Ragnarok-Latam
 
-## PurePotter (ou Farmacêutico)
-
-É o nome que se dá para a famosa construção de personagem (build) do Alquimista focada 100% em criar poções em vez de batalhar. No Ragnarok Online, esse tipo de personagem coloca quase todos os pontos em Destreza (DEX) e Sorte (LUK) para ter a maior taxa de sucesso possível na hora de fabricar os itens.
-
 ### Projetos
 
 ## Calculadoras
