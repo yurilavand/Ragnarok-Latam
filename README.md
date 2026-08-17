@@ -1,59 +1,62 @@
-# Ragnarok-Latam
+# ⚔️ Ragnarok-Latam
 
-### Projetos
-
-## Calculadoras
-## 1.1-PurePot  
-
-Calcula as quantidades corretas de itens para cada poção.
-
-
-# 1.2 - Calculadora de Semijoias Ragnarok LATAM
-
-Ferramenta em **Python (Tkinter)** para calcular automaticamente os insumos necessários na criação de **Semijoias** no servidor **Ragnarok LATAM**.  
-O programa exibe os materiais, Sombridecons, Minérios de Sombridecon e custo total em Zeny, além de gerar relatórios automáticos em `.txt`.
+Coleção de ferramentas e calculadoras para auxiliar jogadores do servidor **Ragnarok LATAM**.
 
 ---
 
-## ⚙️ Funcionalidades
+## 📂 Projetos
 
+### 1.1 — PurePot
+Calculadora que determina as quantidades corretas de itens para cada tipo de poção.
+
+---
+
+### 1.2 — Calculadora de Semijoias Ragnarok LATAM
+Ferramenta em **Python (Tkinter)** para calcular automaticamente os insumos necessários na criação de **Semijoias**.
+
+#### ⚙️ Funcionalidades
 - Interface gráfica simples e intuitiva com **Tkinter**.  
-- Seleção de tipo de semijoia (Inferior, Comum, Incomum, Superior).  
+- Seleção do tipo de semijoia (Inferior, Comum, Incomum, Superior).  
 - Campo para definir a quantidade desejada.  
 - Cálculo automático de:
   - Minérios de Sombridecon  
   - Sombridecons  
   - Semijoias Inferiores, Comuns e Incomuns  
   - Custo total em Zeny  
-- Exportação automática do relatório em `.txt` na mesma pasta do script.
+- Exportação automática de relatório em `.txt` na mesma pasta do script.
 
+---
 
+## 🚀 Roadmap de Longo Prazo — Calculadoras Ragnarok LATAM
 
-🚀 Roadmap de Longo Prazo — Calculadoras Ragnarok LATAM
-📌 Fase 1 — Estrutura e Modularização
-Separar lógica e interface: criar módulos Python só para cálculos e outro para Tkinter, facilitando manutenção.
+### 📌 Fase 1 — Estrutura e Modularização
+- Separar lógica e interface: criar módulos Python só para cálculos e outro para Tkinter.  
+- Reutilização de código: funções comuns (ex.: exportar relatório) em módulo compartilhado.  
+- Estrutura de pastas: cada calculadora em seu diretório, com README próprio.  
 
-Reutilização de código: funções comuns (ex.: exportar relatório) ficam em um módulo compartilhado.
+### 📌 Fase 2 — Qualidade e Confiabilidade
+- Testes automatizados para validar cálculos em diferentes cenários.  
+- Validação de entradas para evitar erros com valores inválidos.  
+- Documentação técnica detalhada.  
 
-Estrutura de pastas: cada calculadora em seu diretório, com README próprio.
+### 📌 Fase 3 — Expansão de Funcionalidades
+- Coleção de calculadoras: Semijoias, PurePotter e Farmacologia em um “kit de utilidades”.  
+- Modo rápido: relatórios para Arma, Armadura e Acessório de uma só vez.  
+- Configurações personalizadas: ajustar valores de Zeny e insumos conforme servidor.  
 
-📌 Fase 2 — Qualidade e Confiabilidade
-Testes automatizados: garantir que os cálculos estejam corretos em diferentes cenários.
+### 📌 Fase 4 — Integração e Aprendizado Avançado
+- Interface web com Flask ou Django.  
+- Distribuição em executáveis para Windows/Linux.  
+- Integração com guild: relatórios compartilhados para toda a guild.  
 
-Validação de entradas: impedir erros quando o usuário digitar valores inválidos.
+---
 
-Documentação técnica: explicar como o código funciona, para você e outros devs.
+## 🛠️ Tecnologias Utilizadas
+- **Python 3.x**  
+- **Tkinter** (interface gráfica)  
+- **Automação de relatórios em `.txt`**
 
-📌 Fase 3 — Expansão de Funcionalidades
-Coleção de calculadoras: reunir Semijoias, PurePotter e Farmacologia em um “kit de utilidades”.
+---
 
-Modo rápido: gerar relatórios para Arma, Armadura e Acessório de uma só vez.
-
-Configurações personalizadas: permitir ajustar valores de Zeny e insumos conforme o servidor.
-
-📌 Fase 4 — Integração e Aprendizado Avançado
-Interface web: migrar para Flask ou Django, permitindo acesso via navegador.
-
-Distribuição: gerar executáveis para Windows/Linux, sem precisar instalar Python.
-
-Integração com guild: criar relatórios compartilhados para toda a guild.
+## 📜 Licença
+Este projeto é open-source e distribuído sob a licença MIT.
